@@ -16,3 +16,4 @@ Após isso, surge a ideia de gerar embeddings com AG, a implementação é feita
 Algoritmos Evolutivos podem performar bem em textos com vocabulário pequeno, mas não detém o desempenho e muito menos a eficiência do uso de técnicas como Word2Vec, aprendendo principalmente padrões sintáticos ao invés da semântica e decaindo cada vez mais para textos grandes e com vocabulário extenso, já que a possibilidade de erro aumenta geometricamente (para cada palavra adicionada, são n comparações a mais) necessitando de mais indivíduos e mais gerações, diminuindo muito a eficiência computacional.
 
 # 📽️ Vídeo de Apresentação
+https://drive.google.com/file/d/1AwXk4R-3Lelig20OBcqqK36DDZH2iYy2/view?usp=sharing
